@@ -1,15 +1,15 @@
-[Documentation](https://docs.pwabuilder.com/#/starter/quick-start)
+[Documentação](https://docs.pwabuilder.com/#/starter/quick-start)
 
-The PWABuilder pwa-starter is our opinionated, best practices, production tested starter that we use to build all of our PWAs, including [PWABuilder itself](https://blog.pwabuilder.com/posts/introducing-the-brand-new-pwa-builder/)! The pwa-starter is a starter codebase, just like create-react-app or the Angular CLI can generate, that uses the PWABuilder team&#39;s preferred front-end tech stack.
+O PWABuilder pwa-starter é nosso iniciador opinativo, de melhores práticas e testado em produção que usamos para construir todos os nossos PWAs, incluindo o [próprio PWABuilder](https://blog.pwabuilder.com/posts/introduzindo-the-brand-new -pwa-construtor/)! O pwa-starter é uma base de código inicial, assim como o create-react-app ou o Angular CLI pode gerar, que usa a pilha de tecnologia front-end preferida da equipe PWABuilder.
 
-[![Get started with the pwa-starter!](https://img.youtube.com/vi/u3pWKpmic_k/0.jpg)](https://www.youtube.com/watch?v=u3pWKpmic_k)
+[![Comece com o pwa-starter!](https://img.youtube.com/vi/u3pWKpmic_k/0.jpg)](https://www.youtube.com/watch?v=u3pWKpmic_k)
 
-With it you get an app that:
-- Has no build system to set up and no boilerplate code to add. Everything is included out of the box.
-- Has a Service Worker system using [Workbox](https://developers.google.com/web/tools/workbox/)
-- Scores close to 100 on Lighthouse out of the box
-- Has everything needed to be installable in the browser
-- Is ready to be package for the app stores using [PWABuilder](https://www.pwabuilder.com)
-- Uses the [Azure Static Web Apps CLI](https://azure.github.io/static-web-apps-cli) which enables emulating your production environment locally, and gets you ready for deploying to Azure Static Web Apps!
+Com ele você obtém um aplicativo que:
+- Não possui sistema de compilação para configurar e nenhum código clichê para adicionar. Tudo está incluído fora da caixa.
+- Possui um sistema Service Worker usando [Workbox](https://developers.google.com/web/tools/workbox/)
+- Pontuações próximas de 100 no Lighthouse fora da caixa
+- Tem tudo o que é necessário para ser instalável no navegador
+- Está pronto para ser empacotado para as lojas de aplicativos usando [PWABuilder](https://www.pwabuilder.com)
+- Usa a [CLI dos Aplicativos Web Estáticos do Azure](https://azure.github.io/static-web-apps-cli), que permite emular seu ambiente de produção localmente e deixa você pronto para a implantação nos Aplicativos Web Estáticos do Azure!
 
-and all with just a few button clicks 😊.
+e tudo com apenas alguns cliques de botão 😊.
